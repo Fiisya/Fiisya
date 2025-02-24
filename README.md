@@ -9,8 +9,8 @@ My Daily Life Sleep, Working and Playing Games
 - 🌱 I'm currently learning Node.js
 - 💬 Ask me about Node.js
 - 📫 How to reach me: asistenawaktop@gmail.com
-- 👨‍💻 All of my projects are available at [Portfolio](pf.alfixd.my.id)
-- 📝 I regularly write articles on [Blog](alfiisyll.biz.id)
+- 👨‍💻 All of my projects are available at [Portfolio](https://github.com/Fiisya/portopolio)
+- 📝 I regularly write articles on [Blog](https://github.com/Fiisya/store-web)
 - ⚡ Fun fact: Hello! I’m Alfi, a beginner in the programming world who is hindered by device limitations. My full name is Alfi Syahrial, and I was really excited to learn programming as a hobby. However, these limitations have slowed my progress, making it difficult to work on projects like a WhatsApp bot and Telegram bot. Even though I’ve tried self-learning and gained some skills, these obstacles have made it hard for me to grow. For now, I just have to accept the reality that my programming journey isn’t going as planned.
 
 ## 💻 Tech Stack:
