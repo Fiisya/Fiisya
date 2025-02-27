@@ -26,12 +26,10 @@ My Daily Life Sleep, Working and Playing Games
 ![](https://github-profile-trophy.vercel.app/?username=yourusername)
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Fiisya&show_icons=true&locale=en" alt="Fiisya" /></p>
 
 ### 💻 Most Used Languages:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fiisya&show_icons=true&locale=en&layout=compact" alt="Fiisya" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Fiisya&show_icons=true&locale=en" alt="Fiisya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Fiisya&" alt="Fiisya" /></p>
 
