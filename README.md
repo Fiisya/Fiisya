@@ -30,3 +30,9 @@ My Daily Life Sleep, Working and Playing Games
 
 ### 💻 Most Used Languages:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fiisya&show_icons=true&locale=en&layout=compact" alt="Fiisya" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Fiisya&show_icons=true&locale=en" alt="Fiisya" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Fiisya&" alt="Fiisya" /></p>
+
