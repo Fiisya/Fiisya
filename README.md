@@ -5,12 +5,12 @@
 
 My Daily Life Sleep, Working and Playing Games
 
-- 🔭 I'm currently working on [WhatsApp Bot](https://github.com/Fiisya/Risa-WaBot)
+- 🔭 I'm currently working on [WhatsApp Bot](https://chat.whatsapp.com/L5OUiV1WF5EJLU2fDjR62C)
 - 🌱 I'm currently learning Node.js
 - 💬 Ask me about Node.js
 - 📫 How to reach me: asistenawaktop@gmail.com
-- 👨‍💻 All of my projects are available at [Portfolio](https://github.com/Fiisya/portopolio)
-- 📝 I regularly write articles on [Blog](https://github.com/Fiisya/store-web)
+- 👨‍💻 All of my projects are available at [Portfolio](https://www.alfixd.my.id)
+- 📝 I regularly write articles on [Blog](https://www.alfixd.my.id)
 - ⚡ Fun fact: Hello! I’m Alfi, a beginner in the programming world who is hindered by device limitations. My full name is Alfi Syahrial, and I was really excited to learn programming as a hobby. However, these limitations have slowed my progress, making it difficult to work on projects like a WhatsApp bot and Telegram bot. Even though I’ve tried self-learning and gained some skills, these obstacles have made it hard for me to grow. For now, I just have to accept the reality that my programming journey isn’t going as planned.
 
 ## 💻 Tech Stack:
@@ -23,7 +23,7 @@ My Daily Life Sleep, Working and Playing Games
 ![](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yourusername)
+![](https://github-profile-trophy.vercel.app/?username=Fiisya)
 
 ### 📊 GitHub Stats:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Fiisya&show_icons=true&locale=en" alt="Fiisya" /></p>
