@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Fiisya&label=Profile%20views&color=0e75b6&style=flat" alt="" />
+</p>
+
 ![Profile Banner](https://files.catbox.moe/psu00a.jpg)
 
 # Hi 👋 i'am Alfi
