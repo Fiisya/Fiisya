@@ -1,37 +1,17 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Fiisya&label=Profile%20views&color=0e75b6&style=flat" alt="" />
-</p>
+# Hi there 👋, I'm Fiisya
+![Profile Views](https://komarev.com/ghpvc/?username=Fiisya&color=blueviolet)
 
-# Hi 👋 i'am Alfi
-### Skill Issues 🌊
+## 🌐 Connect with me
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/Fiisya) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white)](https://facebook.com/alfi.syahriall.3) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@@alwaysfii) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@@alfisyahriall)
 
-My Daily Life Sleep, Working and Playing Games
+## 🛠️ Tech Stack
+![javascript](https://img.shields.io/badge/-javascript-05122A?style=flat&logo=javascript) ![html](https://img.shields.io/badge/-html-05122A?style=flat&logo=html) ![nodejs](https://img.shields.io/badge/-nodejs-05122A?style=flat&logo=nodejs) ![css](https://img.shields.io/badge/-css-05122A?style=flat&logo=css) ![go](https://img.shields.io/badge/-go-05122A?style=flat&logo=go) 
 
-- 🔭 I'm currently working on [WhatsApp Bot](https://chat.whatsapp.com/L5OUiV1WF5EJLU2fDjR62C)
-- 🌱 I'm currently learning Node.js
-- 💬 Ask me about Node.js
-- 📫 How to reach me: asistenawaktop@gmail.com
-- 👨‍💻 All of my projects are available at [Portfolio](https://www.alfixd.my.id)
-- 📝 I regularly write articles on [Blog](https://www.alfixd.my.id)
-- ⚡ Fun fact: Hello! I’m Alfi, a beginner in the programming world who is hindered by device limitations. My full name is Alfi Syahrial, and I was really excited to learn programming as a hobby. However, these limitations have slowed my progress, making it difficult to work on projects like a WhatsApp bot and Telegram bot. Even though I’ve tried self-learning and gained some skills, these obstacles have made it hard for me to grow. For now, I just have to accept the reality that my programming journey isn’t going as planned.
+## 📊 GitHub Stats
+![Fiisya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fiisya&show_icons=true&theme=nightowl)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fiisya&layout=compact&theme=nightowl)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fiisya&theme=nightowl)
+![Trophy](https://github-profile-trophy.vercel.app/?username=Fiisya&theme=nightowl&row=1)
 
-## 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Google Cloud Platform](https://img.shields.io/badge/GoogleCloudPlatform-555555?style=for-the-badge&logo=googlecloudplatform&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-555555?style=for-the-badge&logo=nestjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-## 🌐 Socials:
-[![facebook](https://img.shields.io/badge/facebook-alfi.syahriall.3-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/alfi.syahriall.3) [![instagram](https://img.shields.io/badge/instagram-alfisyahriaal-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alfisyahriaal) [![discord](https://img.shields.io/badge/discord-https://discord.gg/VhTf5ggd-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/https://discord.gg/VhTf5ggd) [![whatsapp](https://img.shields.io/badge/whatsapp-0895615063060-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/0895615063060) [![telegram](https://img.shields.io/badge/telegram-alfisyahrial-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alfisyahrial)
-
-## 📊 GitHub Stats:
-![](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
-
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Fiisya)
-
-### 📊 GitHub Stats:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Fiisya&show_icons=true&locale=en" alt="Fiisya" /></p>
-
-### 💻 Most Used Languages:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fiisya&show_icons=true&locale=en&layout=compact" alt="Fiisya" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Fiisya&" alt="Fiisya" /></p>
-
+---
+*Generated with [GitHub README Generator](https://github.com)*
