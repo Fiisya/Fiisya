@@ -1,9 +1,9 @@
 name: Auto Push dengan GitHub Token
 
 on:
-  workflow_dispatch:  # bisa kamu jalankan manual
+  workflow_dispatch:
   schedule:
-    - cron: '0 * * * *'  # auto jalan tiap jam
+    - cron: '0 * * * *'
 
 jobs:
   autopush:
@@ -13,7 +13,8 @@ jobs:
     - name: Checkout Repo
       uses: actions/checkout@v4
       with:
-        persist-credentials: false  # penting agar pakai token custom
+        persist-credentials: false
+        fetch-depth: 0
 
     - name: Konfigurasi Git
       run: |
@@ -31,4 +32,5 @@ jobs:
         git add log.md
         git commit -m "log: $(date)" || echo "ga ada perubahan"
         git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}
+        git pull --rebase origin main || true
         git push origin HEAD:main
