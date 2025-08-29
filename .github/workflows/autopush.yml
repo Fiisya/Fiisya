@@ -1,2 +1,0 @@
-git pull --rebase origin main || true
-git push origin HEAD:main
