@@ -17,8 +17,8 @@ jobs:
 
     - name: Konfigurasi Git
       run: |
-        git config user.name ${{ secrets.USERNAME }}
-        git config user.email ${{ secrets.EMAIL }}
+        git config user.name "alfi-bot"
+        git config user.email "alfi@users.noreply.github.com"
 
     - name: Tambahkan Log
       run: |
