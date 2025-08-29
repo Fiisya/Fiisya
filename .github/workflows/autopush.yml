@@ -1,0 +1,34 @@
+name: Auto Push dengan GitHub Token
+
+on:
+  workflow_dispatch:  # bisa kamu jalankan manual
+  schedule:
+    - cron: '0 * * * *'  # auto jalan tiap jam
+
+jobs:
+  autopush:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repo
+      uses: actions/checkout@v4
+      with:
+        persist-credentials: false  # penting agar pakai token custom
+
+    - name: Konfigurasi Git
+      run: |
+        git config user.name ${{ secrets.USERNAME }}
+        git config user.email ${{ secrets.EMAIL }}
+
+    - name: Tambahkan Log
+      run: |
+        echo "$(date)" >> log.md
+
+    - name: Commit dan Push
+      env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      run: |
+        git add log.md
+        git commit -m "log: $(date)" || echo "ga ada perubahan"
+        git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}
+        git push origin HEAD:main
